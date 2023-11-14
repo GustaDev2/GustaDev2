@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋 , Eu sou Gustavo</h1><h3 align="center">Sou apaixonado por jogos</h3>- Atualmente eu estou aprendendo a programar na **Imersão Alura**- Você me acha através do e-mail **gustavo.393950@gmail.com**
+<h1 align="center">Oi 👋 , Eu sou Gustavo</h1><h3 align="center">Sou apaixonado por jogos</h3>- Atualmente eu estou aprendendo a programar na **Imersão Alura**- 
 
 
 
