@@ -22,7 +22,7 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Link do meu Email para entrar em contato:
-<a href="gustavo.373950@gmail.com">Entre em contato</a>
+<a href="mailto:gustavo.373950@gmail.com">Entre em contato</a>
 
 
 
