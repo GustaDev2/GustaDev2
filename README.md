@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**GustaDev2/GustaDev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá eu sou o Gustavo Lopes 🫰🏼
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://GustaDev2.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustaDev2)
+
+![GustaDev2 GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaDev2&show_icons=true&theme=dracula)
+
+## Tecnologias que uso no meu dia a dia
+
+<div style="display: inline_block"><br/>
+<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
+<div style="display: inline_block"><br/>
+<img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div><br/>
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+### Link do meu Email para entrar em contato:
+- [Contato](https://mail.google.com/mail/u/1/#inbox)
