@@ -20,4 +20,4 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Link do meu Email para entrar em contato:
-- [Contato](https://mail.google.com/mail/u/1/#inbox)
+<a href="gustavo.393950@gmail.com">Entre em contato</a>
