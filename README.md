@@ -5,6 +5,8 @@
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustaDev2)
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lopes-1694b1255/)
+
 ![GustaDev2 GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaDev2&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia a dia
@@ -21,4 +23,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ### Link do meu Email para entrar em contato:
 <a href="mailto:gustavo.373950@gmail.com">Entre em contato</a>
+
+### Link do meu Curriculo
+<a href="https://docs.google.com/document/d/1lmwmk_6DsBSMyHwFO0eX-P6g0tGKN_epL4Aj1t4978c/edit#heading=h.unrigokn96sj">Curriculo</a>
 
