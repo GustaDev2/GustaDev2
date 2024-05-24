@@ -19,7 +19,6 @@
 <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Link do meu Email para entrar em contato:
 <a href="mailto:gustavo.373950@gmail.com">Entre em contato</a>
