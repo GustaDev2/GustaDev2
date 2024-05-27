@@ -1,6 +1,8 @@
 
 ### Olá eu sou o Gustavo Lopes 🫰🏼
 
+<img src="https://i.pinimg.com/originals/d5/50/ca/d550ca8f94362cc65b6bba099a13b703.gif" style="width: 300px; height: 200px;" alt="GIF pequeno">
+
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://GustaDev2.com)
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustaDev2)
@@ -21,7 +23,8 @@
 
 
 ### Link do meu Email para entrar em contato:
-<a href="mailto:gustavo.373950@gmail.com">Entre em contato</a>
+<a href="mailto:gustavo.373950@gmail.com">Entre em contato</a> 
+
 
 
 
