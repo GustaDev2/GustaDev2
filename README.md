@@ -3,6 +3,9 @@
 
 ### Olá eu sou o Gustavo Lopes 🫰🏼
 
+<img src="https://i.pinimg.com/originals/87/e7/23/87e723530fa958f8151c33380debf9ed.gif">
+
+
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://GustaDev2.com)
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustaDev2)
