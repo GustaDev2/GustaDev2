@@ -1,7 +1,7 @@
 
 <img src="https://i.pinimg.com/originals/1e/31/3a/1e313a58c726ed08e116c1607dfe3875.gif">
 
-### Olá me chamo Gustavo Lopes🫰
+### Olá me chamo Gustavo Lopes 👋🏻
 
 <img src="https://i.pinimg.com/originals/87/e7/23/87e723530fa958f8151c33380debf9ed.gif">
 
