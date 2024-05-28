@@ -1,14 +1,14 @@
 
+<img src="https://i.pinimg.com/originals/b0/af/27/b0af27f4abe6c87f474667254e1405c6.gif">
+
 ### Olá eu sou o Gustavo Lopes 🫰🏼
-
-<img src="https://i.pinimg.com/originals/da/2c/0f/da2c0f90f786fcf88021517fbe7fea74.gif">
-
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://GustaDev2.com)
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustaDev2)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lopes-1694b1255/)
+
 
 ![GustaDev2 GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaDev2&show_icons=true&theme=dracula)
 
