@@ -1,7 +1,8 @@
 
 ### Olá eu sou o Gustavo Lopes 🫰🏼
 
-<img src="https://i.pinimg.com/originals/bc/08/65/bc0865f938ff3e6dd3e2d8b7cb2e9032.gif" style="width: 300px; height: 200px;" alt="GIF pequeno">
+<img src="https://i.pinimg.com/originals/da/2c/0f/da2c0f90f786fcf88021517fbe7fea74.gif">
+
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://GustaDev2.com)
 
