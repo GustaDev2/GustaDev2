@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/b0/af/27/b0af27f4abe6c87f474667254e1405c6.gif">
+<img src="https://i.pinimg.com/originals/1e/31/3a/1e313a58c726ed08e116c1607dfe3875.gif">
 
 ### Olá eu sou o Gustavo Lopes 🫰🏼
 
