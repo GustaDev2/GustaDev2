@@ -1,10 +1,10 @@
 
 <img src="https://i.pinimg.com/originals/1e/31/3a/1e313a58c726ed08e116c1607dfe3875.gif">
 
-### Olá me chamo Gustavo Lopes 👋🏻
+### Olá me chamo Gustavo Lopes 🫰🏼
+
 
 <img src="https://i.pinimg.com/originals/87/e7/23/87e723530fa958f8151c33380debf9ed.gif">
-
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://GustaDev2.com)
 
@@ -24,6 +24,11 @@
 <div style="display: inline_block"><br/>
 <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
+
+<div style="display: inline_block"><br/>
+<img aling="center" alt="css" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div><br/>
+
 
 
 ### Link do meu Email para entrar em contato:
