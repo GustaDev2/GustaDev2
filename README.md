@@ -3,8 +3,7 @@
 
 ### Olá me chamo Gustavo Lopes 🫰🏼
 
-
-<img src="https://i.pinimg.com/originals/87/e7/23/87e723530fa958f8151c33380debf9ed.gif">
+<img aling="center" alt="image" height="200" width="200" src="https://i.pinimg.com/originals/87/e7/23/87e723530fa958f8151c33380debf9ed.gif">
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://GustaDev2.com)
 
