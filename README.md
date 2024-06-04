@@ -3,9 +3,7 @@
 
 ### Olá me chamo Gustavo Lopes 🫰🏼
 
-<img aling="center" alt="image" height="200" width="200" src="https://i.pinimg.com/originals/87/e7/23/87e723530fa958f8151c33380debf9ed.gif">
-
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://GustaDev2.com)
+<img aling="center" alt="image" height="200" width="200" src="https://i.pinimg.com/originals/68/a5/80/68a5805ee62de226ae2fa7dd16b52353.gif">
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustaDev2)
 
@@ -25,7 +23,7 @@
 </div><br/>
 
 <div style="display: inline_block"><br/>
-<img aling="center" alt="css" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img aling="center" alt="Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
 
