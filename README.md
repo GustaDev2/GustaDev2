@@ -27,9 +27,17 @@
 </div><br/>
 
 
-
 ### Link do meu Email para entrar em contato:
 <a href="mailto:gustavo.373950@gmail.com">Entre em contato</a> 
+
+### Link de projetos :
+https://projetoashita-nojoe.firebaseapp.com/
+
+https://projetohajime-noippo.firebaseapp.com/
+
+https://gustadev2.github.io/projeto-xdev/
+
+
 
 
 
