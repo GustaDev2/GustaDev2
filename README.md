@@ -22,10 +22,6 @@
 <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-<div style="display: inline_block"><br/>
-<img aling="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br/>
-
 
 ### Link do meu Email para entrar em contato:
 <a href="mailto:gustavo.373950@gmail.com">Entre em contato</a> 
@@ -36,6 +32,8 @@ https://projetoashita-nojoe.firebaseapp.com/
 https://projetohajime-noippo.firebaseapp.com/
 
 https://gustadev2.github.io/projeto-xdev/
+
+https://projeto-marinha.web.app/
 
 
 
