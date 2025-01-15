@@ -36,6 +36,7 @@
         <a href="https://horajs.netlify.app/" target="_blank">Hora JS</a>
         <a href="https://identificadordeidades.netlify.app/" target="_blank">Identificador de Idades</a>
         <a href="https://tudo-sobre-bleach.netlify.app/" target="_blank">Tudo Sobre Bleach</a>
+        <a href="https://cardsvalorant.netlify.app/" target="_blank">Tudo Sobre Bleach</a>
     </div>
 </section>
 
