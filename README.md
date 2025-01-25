@@ -238,7 +238,5 @@ INSERT INTO tb_belonging (list_id, game_id, position) VALUES (2, 10, 4);
 
 https://gist.github.com/acenelio/5e40b27cfc40151e36beec1e27c4ff71
 
-<p>&copy; 2025 Gustavo - Todos os direitos reservados</p>
-
 </body>
 </html>
