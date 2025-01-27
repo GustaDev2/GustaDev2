@@ -84,8 +84,8 @@ Verbo HTTP e idempotência
 
 
 ## Programas utilizados
-SpringTools
-Docker Desktop
+SpringTools,
+Docker Desktop,
 Postman
 
 
