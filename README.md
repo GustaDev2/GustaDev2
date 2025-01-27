@@ -83,6 +83,10 @@ Design e implementação de endpoint,
 Verbo HTTP e idempotência
 
 
+## Programas utilizados
+SpringTools
+Docker Desktop
+Postman
 
 
 ## Modelo de domínio DSList
