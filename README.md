@@ -24,22 +24,13 @@
 </section>
 
 <section class="projects">
-    <h2>Meus Projetos</h2>
+    <h2>Meu Portifólio</h2>
     <div class="project-list">
-        <a href="https://projetoashita-nojoe.firebaseapp.com/" target="_blank">Projeto Ashita no Joe</a>
-        <a href="https://projetohajime-noippo.firebaseapp.com/" target="_blank">Projeto Hajime no Ippo</a>
-        <a href="https://gustadev2.github.io/projeto-xdev/" target="_blank">Projeto XDev</a>
-        <a href="https://projeto-marinha.web.app/" target="_blank">Projeto Marinha</a>
-        <a href="https://projeto-poesia.netlify.app/" target="_blank">Projeto Poesia</a>
-        <a href="https://projeto-celular.netlify.app/" target="_blank">Projeto Celular</a>
-        <a href="https://login-de-conta.netlify.app/" target="_blank">Login de Conta</a>
-        <a href="https://horajs.netlify.app/" target="_blank">Hora JS</a>
-        <a href="https://identificadordeidades.netlify.app/" target="_blank">Identificador de Idades</a>
-        <a href="https://tudo-sobre-bleach.netlify.app/" target="_blank">Tudo Sobre Bleach</a>
-        <a href="https://cardsvalorant.netlify.app/" target="_blank">Card Valorant</a>
+        <a href="https://projetoportifoliogithub.netlify.app/" target="_blank">Portifólio</a>
     </div>
 </section>
 
+## Contato
 <footer>
     <p>Entre em contato pelo email: <a href="mailto:gustavo.373950@gmail.com">gustavo.373950@gmail.com</a></p>
     <p>&copy; 2024 Gustavo - Todos os direitos reservados</p>
