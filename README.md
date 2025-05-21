@@ -24,7 +24,7 @@
 </section>
 
 <section class="projects">
-    <h2>Meus Projetos</h2>
+    <h2>Meus Projetos Em HTML E CSS</h2>
     <div class="project-list">
         <a href="https://projetoportifoliogithub.netlify.app/" target="_blank">Projetos</a>
     </div>
