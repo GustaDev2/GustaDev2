@@ -36,7 +36,7 @@ Olá! Sou o Gustavo, estudante de Análise e Desenvolvimento de Sistemas apaixon
 
 | Projeto | Descrição |
 |--------|------------|
-| 🌐 [Portfólio Pessoal](https://projetoportifoliogithub.netlify.app/) | Meu site pessoal desenvolvido com HTML e CSS apresentando meus projetos e contatos. |
+| 🌐 [Portfólio Pessoal](https://projetoportifoliogithub.netlify.app/) | Meu site pessoal desenvolvido com HTML e CSS apresentando meus projetos.|
 
 ---
 
